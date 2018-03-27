@@ -1,4 +1,4 @@
 [lfs]
-    # url = "http://moxel.cresta.ai/git/lfs"
-    url = "http://localhost:8080"
+    url = "http://moxel.cresta.ai/git/lfs"
+    # url = "http://localhost:8080"
 
